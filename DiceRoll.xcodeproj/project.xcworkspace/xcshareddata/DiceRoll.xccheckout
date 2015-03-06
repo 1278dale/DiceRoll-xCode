@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>232EE59C-EDAA-4169-B2B8-B93CAE783F62</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DiceRoll</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1FDCB57B73D82D040B9A76E4C4E4561C479D92CA</key>
+		<string>https://github.com/1278dale/DiceRoll-xCode.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DiceRoll.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1FDCB57B73D82D040B9A76E4C4E4561C479D92CA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/1278dale/DiceRoll-xCode.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1FDCB57B73D82D040B9A76E4C4E4561C479D92CA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1FDCB57B73D82D040B9A76E4C4E4561C479D92CA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DiceRoll</string>
+		</dict>
+	</array>
+</dict>
+</plist>
